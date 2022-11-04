@@ -1,8 +1,6 @@
 ### Hi there 👋
 You live, you learn, you move on.
 
-https://gist.github.com/Dabnii/edb64adae44368eff8362ba09ab6a2c7
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabnii&show_icons=true&theme=dark)
 
 ## 💻 Tech stacks
