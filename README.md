@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+`#FrontEnd` `#Graphic design`
+
 ![Dabnii's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabnii&show_icons=true&theme=transparent)
 
 ## 💻 Tech stacks
