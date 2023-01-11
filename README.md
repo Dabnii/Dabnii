@@ -1,7 +1,8 @@
  <div align="center">
  
 # `👩‍💻FrontEnd Dev` `💡Da-bin,Lee` 
-### ✨ #도전 #성장 #기록 하는 프론트엔드 개발자
+### ✨ #도전 #성장 #기록 하는 프론트엔드 개발자 된 
+
 
 ![Dabnii's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabnii&show_icons=true&theme=transparent)
 
